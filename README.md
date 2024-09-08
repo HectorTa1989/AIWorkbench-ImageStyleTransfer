@@ -31,14 +31,21 @@ The resulting stylized image will be displayed on the page.
 
 ## Project Structure
 
-[• app/: Contains the main application code 
+• app/: Contains the main application code 
+   
    •	main.py: FastAPI application entry point
+   
    •	model.py: Style transfer model implementation
+   
    •	image_processor.py: Image processing utilities
+   
    •	api.py: API endpoints for handling requests
+
 • static/: Contains the HTML file for the web interface 
+
 • Dockerfile: Defines the container environment 
-• requirements.txt: Lists Python dependencies](url)
+
+• requirements.txt: Lists Python dependencies
 
 ## Restrictions
 
