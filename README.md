@@ -33,13 +33,13 @@ The resulting stylized image will be displayed on the page.
 
 • app/: Contains the main application code 
    
-   •	main.py: FastAPI application entry point
+      •	main.py: FastAPI application entry point
    
-   •	model.py: Style transfer model implementation
+      •	model.py: Style transfer model implementation
    
-   •	image_processor.py: Image processing utilities
+      •	image_processor.py: Image processing utilities
    
-   •	api.py: API endpoints for handling requests
+      •	api.py: API endpoints for handling requests
 
 • static/: Contains the HTML file for the web interface 
 
